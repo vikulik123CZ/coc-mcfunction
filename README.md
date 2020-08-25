@@ -145,12 +145,12 @@ The version-specific grammars are partially generated based on Minecraft's gener
 
 In VSCode, you can easily choose which version of mcfunction to use by changing the `.mcfunction` extension association in your workspace settings:
 
-```
+```json
 "files.associations": {
   "*.mcfunction": "mcfunction-snapshot"
 }
 ```
-<!-- comment --!>
+
 This option can also be set on the user-level in `settings.json` or folder-level in `.vscode/settings.json`.
 
 ## Customize

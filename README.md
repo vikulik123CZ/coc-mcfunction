@@ -150,7 +150,7 @@ In VSCode, you can easily choose which version of mcfunction to use by changing 
   "*.mcfunction": "mcfunction-snapshot"
 }
 ```
-
+<!-- comment --!>
 This option can also be set on the user-level in `settings.json` or folder-level in `.vscode/settings.json`.
 
 ## Customize
